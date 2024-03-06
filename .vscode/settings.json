@@ -1,0 +1,7 @@
+{
+    "gitlens.views.experimental.multiSelect.enabled": true,
+    "search.useGlobalIgnoreFiles": true,
+    "git-graph.repository.fetchAndPruneTags": true,
+    "git-graph.enhancedAccessibility": true,
+    "search.useParentIgnoreFiles": true
+}
